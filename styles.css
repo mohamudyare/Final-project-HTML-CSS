@@ -637,7 +637,7 @@ footer{
 
 
 
-.hamburger{
+.hamburger-add{
         display: none;
 }
 
@@ -656,11 +656,21 @@ footer{
                         display: block;
                 }
 
+                .hamburger-add{
+                        display: flex;
+                        justify-content: space-around;
+                        background-color: rgb(251, 242, 230);
+                }
+
+                 .hamburger-add h1{
+                        color: rgb(17, 16, 16);
+                 }
+
                 .desktop-menue{
                         height: 0;
                 }
 
-             header  .desktop{
+              .desktop{
                         display: none;
                 }
               
