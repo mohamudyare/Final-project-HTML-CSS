@@ -555,6 +555,10 @@ table,td{
                 margin-right: 0.5rem;
 }
 
+.Expert .icons i:hover{
+        color: #ed563b;
+}
+
 
 .type-seven{
         display: flex;
